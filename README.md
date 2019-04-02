@@ -6,3 +6,4 @@ cd docker-nodejs
 
 docker build -t rba/docker-web-app .
 
+docker run -p 49160:8080 -d rba/docker-web-app
