@@ -4,5 +4,5 @@ git clone https://github.com/rbapst/docker-nodejs
 
 cd docker-nodejs
 
-docker build -t rba/docker-web-app
+docker build -t rba/docker-web-app .
 
