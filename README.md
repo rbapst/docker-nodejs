@@ -1,0 +1,1 @@
+1st node.js in docker (from www.nodejs.org)
